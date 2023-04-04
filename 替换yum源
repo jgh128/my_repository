@@ -1,0 +1,2 @@
+curl -o- https://gitee.com/turnon/linux-tutorial/raw/master/codes/linux/sys/yum/change-yum-repo.sh | bash
+wget -qO- https://gitee.com/turnon/linux-tutorial/raw/master/codes/linux/sys/yum/change-yum-repo.sh | bash
